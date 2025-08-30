@@ -10,17 +10,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome:Mateus Ribeiro de Souza Lima
+- Matricula:898146
+- Proposta de projeto escolhida: Propostas e Produções> Pessoa> Publicações/Obras/Projetos> Autores e Livros
+- Breve descrição sobre seu projeto:Por ser um leitor e fã dos livros " As Crônicas de Gelo e Fogo", eu gostaria de fazer um site para falar um pouco mais sobre os livros do universo gelo e fogo, sobre o autor e também sobre os outros livros e projetos por ele produzidos. Também gostaria de apresentar um pouco nesse site uma parte que pudesse ser aberta a comentários e teorias sobre o 6 livro da série. 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](public/images/wireframe.jpg)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home-page](public/images/homepage.jpg)
